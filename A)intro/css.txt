@@ -1,0 +1,31 @@
+CSS- Cascading Style Sheets
+CSS can be linked to multiple HTML files.
+
+what is an element?
+In HTML (Hypertext Markup Language), an element is a fundamental building block that defines the structure and content of a web page. Each HTML element consists of a start tag, content, and an end tag. The start tag and end tag together form an element, and the content is the information or structure enclosed between these tags.
+<p>This is a paragraph.</p>
+In this example:
+
+<p> is the start tag.
+This is a paragraph. is the content.
+</p> is the end tag.
+
+
+what are anchor tags?
+The anchor tag, <a>, is an HTML element used to create hyperlinks or anchor links on a webpage. Hyperlinks are elements that allow users to navigate to another resource, such as another web page, a file, or a specific location within the same page
+
+what are div tags?
+
+The <div> tag in HTML is a container or division element used to group other HTML elements together and apply styles or scripting to them as a single unit. The name "div" stands for "division," and it's a generic container that does not have any inherent semantic meaning. Instead, it is a structural element that helps organize and structure the layout of a web page.
+
+what is an attribute?
+In HTML (Hypertext Markup Language), an attribute provides additional information about an HTML element and is included within the opening tag of the element. Attributes are used to modify the behavior or appearance of an element and are always written as name/value pairs.
+
+Here is a basic example of an HTML element with an attribute:
+
+<a href="https://www.example.com">Visit Example.com</a>
+In this example:
+
+<a> is the anchor tag, representing a hyperlink.
+href is the attribute name.
+"https://www.example.com" is the attribute value.

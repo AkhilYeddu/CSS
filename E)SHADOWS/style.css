@@ -1,0 +1,17 @@
+h1{
+    font-family:verdana,arial;
+    text-shadow: 7px 7px 7px hsla(0, 85%, 53%, 0.918),-7px -7px 7px hsla(243, 85%, 53%, 0.918);
+            /* horizontal,vertical,bluramt,color */
+            /* default horizontal=right,default vertical=down */
+            /* add negative to change the direction */
+    
+}
+p{
+    font-family:"courier new"
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(96, 101, 105);
+    box-shadow: 10px 10px 10px hsl(240, 49%, 57%);
+}

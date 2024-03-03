@@ -1,0 +1,42 @@
+body
+{
+    background-color: black;
+}
+
+h1
+{
+    color: white;
+}
+h2
+{
+    color: white;
+}
+h3
+{
+    color: white;
+}
+h4
+{
+    color: white;
+}
+p{
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+/* to access a specific ID use # */
+#p1{
+    background-color: red;
+}
+#p2{
+    background-color: blue;
+}
+/* to access a class (a group) */
+.even
+{
+    color: yellow;
+
+}
+#p3{
+    background-color: green;
+}

@@ -1,0 +1,13 @@
+h1{
+    border:3px solid hsl(295, 66%, 53%);
+       /* WIDTH  STYLE   COLOUR ..............THIS IS SHORT HAND SYNTAX */
+    border-radius:15px;
+
+}
+p{
+    border-bottom:3px solid hsl(119, 70%, 39%);
+    border-top:3px solid hsl(0, 70%, 39%);
+    border-left:3px solid hsl(223, 70%, 39%);
+    border-right:3px solid hsl(62, 86%, 43%);
+    border-radius: 10px;
+}
